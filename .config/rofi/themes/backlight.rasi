@@ -1,5 +1,5 @@
 configuration {
-	font:                      		"GoogleSans Nerd Font 12";
+	font: "GoogleSans Nerd Font 12";
 }
 
 @import "colors.rasi"
@@ -7,17 +7,17 @@ configuration {
 
 
 window {
-    background-color:               @background;
-    transparency:                   "real";
-    border-radius:                  12px;
-	width:							350px;
+    background-color: @background;
+    transparency: "real";
+    border-radius: 12px;
+	width: 350px;
 }
 
 prompt {
-    enabled: 						true;
-    padding:                        10px;
-	text-color: 					@accent;
-    background-color:               @transparent;
+    enabled: true;
+    padding: 10px;
+	text-color: @accent;
+    background-color: @transparent;
 }
 
 textbox-prompt-colon {
