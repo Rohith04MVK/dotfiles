@@ -1,5 +1,5 @@
 configuration {
-	font: "GoogleSans Nerd Font 14";
+    font: "GoogleSans Nerd Font 14";
 }
 
 @import "colors.rasi"
@@ -8,14 +8,14 @@ window {
     background-color: @background;
     transparency: "real";
     border-radius: 12px;
-	width: 250px;
+    width: 250px;
     location: center;
 }
 
 prompt {
     enabled: true;
     padding: 10px;
-	text-color: @accent;
+    text-color: @accent;
     background-color: @transparent;
     border: 0px 0px 0px 0px;
     border-radius: 10px;
@@ -23,15 +23,15 @@ prompt {
 }
 
 textbox-prompt-colon {
-	expand: false;
-	text-color: @accent;
+    expand: false;
+    text-color: @accent;
     background-color: @transparent;
     padding: 10px 10px 0px 10px;
     border-radius: 10px;
 }
 
 inputbar {
-	children: [ textbox-prompt-colon, prompt ];
+    children: [ textbox-prompt-colon, prompt ];
     spacing: 12px;
     text-color: @foreground;
     background-color: @transparent;
@@ -68,7 +68,7 @@ element {
 }
 
 element-text {
-	font: "GoogleSans Nerd Font 16";
+    font: "GoogleSans Nerd Font 16";
     background-color: @transparent;
     text-color: @foreground;
     expand: true;
