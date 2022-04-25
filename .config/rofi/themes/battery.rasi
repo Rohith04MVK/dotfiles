@@ -1,10 +1,9 @@
-
 configuration {
-	font: "GoogleSans Nerd Font 12";
+    font: "GoogleSans Nerd Font 12";
     disable-history: false;
     fullscreen: false;
-	hide-scrollbar: true;
-	sidebar-mode: false;
+    hide-scrollbar: true;
+    sidebar-mode: false;
 }
 
 @import "colors.rasi"
@@ -22,7 +21,7 @@ window {
 prompt {
     enabled: true;
     padding: 10px;
-	text-color: @accent;
+    text-color: @accent;
     background-color: @transparent;
     border: 0px 0px 0px 0px;
     border-radius: 10px;
@@ -30,16 +29,16 @@ prompt {
 }
 
 textbox-prompt-colon {
-	expand: false;
-	str: " Battery ";
-	text-color: @accent;
+    expand: false;
+    str: " Battery ";
+    text-color: @accent;
     background-color: @background-dark;
     padding: 10px 10px 0px 10px;
     border-radius: 10px;
 }
 
 inputbar {
-	children: [ textbox-prompt-colon, prompt ];
+    children: [ textbox-prompt-colon, prompt ];
     spacing: 12px;
     text-color: @foreground;
     background-color:               @transparent;
