@@ -1,5 +1,5 @@
 configuration {
-	font: "GoogleSans Nerd Font 12";
+   font: "GoogleSans Nerd Font 12";
 }
 
 @import "colors.rasi"
@@ -9,14 +9,14 @@ window {
     background-color: @background;
     transparency: "real";
     border-radius: 12px;
-	width: 550px;
+    width: 550px;
     location: center;
 }
 
 prompt {
     enabled: true;
     padding: 10px;
-	text-color: @accent;
+    text-color: @accent;
     background-color: @transparent;
     border: 0px 0px 0px 0px;
     border-radius: 10px;
@@ -24,16 +24,16 @@ prompt {
 }
 
 textbox-prompt-colon {
-	expand: false;
-	str: " System ";
-	text-color: @accent;
+    expand: false;
+    str: " System ";
+    text-color: @accent;
     background-color: @background-dark;
     padding: 10px 10px 0px 10px;
     border-radius: 10px;
 }
 
 inputbar {
-	children: [ textbox-prompt-colon, prompt ];
+    children: [ textbox-prompt-colon, prompt ];
     spacing: 12px;
     text-color: @foreground;
     background-color: @transparent;
@@ -70,7 +70,7 @@ element {
 }
 
 element-text {
-	font: "GoogleSans Nerd Font 32";
+    font: "GoogleSans Nerd Font 32";
     background-color: @transparent;
     text-color: @foreground;
     expand: true;
