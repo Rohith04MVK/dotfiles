@@ -90,15 +90,15 @@ element {
 element-icon {
 	size: 50px;
 	border: 0px;
-    background-color:               @transparent;
-    border-radius:                  12px;
+    background-color: @transparent;
+    border-radius: 12px;
     horizontal-align: 0.5;
 	vertical-align: 0.5;
 }
 
 element-text {
 	expand: true;
-    background-color:               @transparent;
+    background-color: @transparent;
     text-color: @foreground;
 	horizontal-align: 0.5;
 	vertical-align: 0.5;
