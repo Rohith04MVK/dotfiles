@@ -1,10 +1,10 @@
 
 configuration {
-	font: "GoogleSans Nerd Font 12";
+   font: "GoogleSans Nerd Font 12";
     disable-history: false;
     fullscreen: false;
-	hide-scrollbar: true;
-	sidebar-mode: false;
+    hide-scrollbar: true;
+    sidebar-mode: false;
 }
 
 @import "colors.rasi"
@@ -16,30 +16,30 @@ window {
     background-color: @background;
     transparency: "real";
     border-radius: 12px;
-	width: 450px;
+    width: 450px;
 }
 
 prompt {
     enabled: true;
     background-color: @transparent;
     padding: 10px;
-	text-color: @accent;
+    text-color: @accent;
     border: 0px 0px 0px 0px;
     border-radius: 10px;
     border-color: @accent;
 }
 
 textbox-prompt-colon {
-	expand: false;
+    expand: false;
     background-color: @background-dark;
-	str: " Clock ";
-	text-color: @accent;
+    str: " Clock ";
+    text-color: @accent;
     padding: 10px 10px 0px 10px;
     border-radius: 10px;
 }
 
 inputbar {
-	children: [ textbox-prompt-colon, prompt ];
+    children: [ textbox-prompt-colon, prompt ];
     spacing: 12px;
     text-color: @foreground;
     background-color: @transparent;
@@ -78,7 +78,7 @@ element {
 element-text {
     background-color: @transparent;
     text-color: @foreground;
-	font: "GoogleSans Nerd Font 32";
+    font: "GoogleSans Nerd Font 32";
     expand: true;
     horizontal-align: 0.5;
     margin: 5px 10px 20px 10px;
