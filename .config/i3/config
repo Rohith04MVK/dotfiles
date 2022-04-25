@@ -255,7 +255,7 @@ focus_follows_mouse no
 ## Ubuntu
 # exec_always --no-startup-id xrandr --output eDP-1-1 --left-of HDMI-0 --auto --primary
 ## Arch
-exec_always --no-startup-id xrandr --output HDMI-0 --right-of eDP-1-1 --auto --primary
+# exec_always --no-startup-id xrandr --output HDMI-0 --right-of eDP-1-1 --auto --primary
 # Startup apps
 exec --no-startup-id nextcloud
 
