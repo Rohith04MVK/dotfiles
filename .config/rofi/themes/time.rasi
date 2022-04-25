@@ -1,4 +1,3 @@
-
 configuration {
    font: "GoogleSans Nerd Font 12";
     disable-history: false;
