@@ -51,7 +51,7 @@ entry {
 	placeholder-color: @foreground;
 	expand: true;
 	horizontal-align: 0.02;
-    vertical-align: 0.5;
+    	vertical-align: 0.5;
 	placeholder: "Search";
 	blink: true;
 }
@@ -90,16 +90,16 @@ element {
 element-icon {
 	size: 50px;
 	border: 0px;
-    background-color: @transparent;
-    border-radius: 12px;
-    horizontal-align: 0.5;
+    	background-color: @transparent;
+    	border-radius: 12px;
+    	horizontal-align: 0.5;
 	vertical-align: 0.5;
 }
 
 element-text {
 	expand: true;
-    background-color: @transparent;
-    text-color: @foreground;
+    	background-color: @transparent;
+    	text-color: @foreground;
 	horizontal-align: 0.5;
 	vertical-align: 0.5;
 	margin: 10px 10px 0px 10px;
