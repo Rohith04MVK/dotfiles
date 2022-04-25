@@ -3,7 +3,7 @@
 * {
     background-color: @transparent;
     text-color: @foreground;
-	font: "GoogleSans Nerd Font 12";
+    font: "GoogleSans Nerd Font 12";
 }
 
 window {
