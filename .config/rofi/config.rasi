@@ -1,0 +1,9 @@
+/** Configured For Applets **/
+
+configuration {
+	modi: "window,drun,run,ssh";
+	show-icons: true;
+	icon-theme: "Candy-icons";
+	terminal: "kitty";
+	drun-match-fields: "name,generic,exec,categories";
+}
