@@ -219,7 +219,7 @@ bindsym XF86AudioPrev exec playerctl previous
 for_window [class="^.*"] border pixel 2
 
 # Set BG
-exec_always feh --bg-fill ./wallpaper/black5_unicat.png
+exec_always feh --bg-fill /home/rohith/Downloads/black5_unicat.png
 
 
 ##########################################################################
@@ -230,7 +230,7 @@ exec_always feh --bg-fill ./wallpaper/black5_unicat.png
 exec --no-startup-id fusuma -d
 
 # compton
-exec --no-startup-id compton
+exec --no-startup-id picom --experimental-backends --dbus --config ~/.config/picom/picom.conf &
 
 # Dunst
 exec --no-startup-id dunst
@@ -255,7 +255,7 @@ focus_follows_mouse no
 ## Ubuntu
 # exec_always --no-startup-id xrandr --output eDP-1-1 --left-of HDMI-0 --auto --primary
 ## Arch
-# exec_always --no-startup-id xrandr --output HDMI-0 --right-of eDP-1-1 --auto --primary
+exec_always --no-startup-id xrandr --output HDMI-0 --right-of eDP-1-1 --auto --primary
 # Startup apps
 exec --no-startup-id nextcloud
 
