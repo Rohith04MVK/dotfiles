@@ -3,7 +3,7 @@
 <hr /> 
 
 <p align="center">
-<img src="img/works-on-machine.svg" height=30px> 
+<img src="img/works-on-my-machine.svg" height=30px> 
 <img src="img/works-with-wizardry.svg" height=30px>
 </p>
 
