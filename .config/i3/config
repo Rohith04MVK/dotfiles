@@ -219,7 +219,7 @@ bindsym XF86AudioPrev exec playerctl previous
 for_window [class="^.*"] border pixel 2
 
 # Set BG
-exec_always feh --bg-fill ./wallpaper/forrest.png
+exec_always feh --bg-fill --randomize ./wallpaper/
 
 
 ##########################################################################
@@ -229,7 +229,7 @@ exec_always feh --bg-fill ./wallpaper/forrest.png
 # Fusuma (trakpad gestures)
 exec --no-startup-id fusuma -d
 
-# compton
+# Picom
 exec --no-startup-id picom --experimental-backends --dbus --config ~/.config/picom/picom.conf &
 
 # Dunst
@@ -297,7 +297,7 @@ set $i3l spiral to workspace $ws9
 #############################
 
 # Set inner/feher gaps
-gaps inner 15
+gaps inner 10
 gaps outer 0
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
