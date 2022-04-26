@@ -32,5 +32,5 @@
 | [`spicetify`](https://github.com/spicetify/spicetify-cli) | Commandline tool to customize Spotify client | To customize spotify |
 | [`better discord`](https://betterdiscord.app/) |   To enhances Discord desktop app with new features   | To customize discord |
 
-### Color scheme
-Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme. All the colors used are from the *Catppuccin* color pallet
+### Color scheme and Wallpapers
+Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet
