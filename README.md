@@ -8,7 +8,7 @@
 <h2 align="center">Desktop</h3>
 <img src="./img/desktop.png" align="center">
 
-  ### Starring
+### Starring
 
 - [`manjaro`](https://manjaro.org/) as distribution
 - [`i3-gaps`](https://github.com/Airblader/i3) as window manager
