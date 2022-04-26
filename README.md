@@ -60,3 +60,4 @@ All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/
 <img src="./img/Screenshot_20220426_162415.png">
 <img src="./img/Screenshot_20220426_171236.png">
 <img src="./img/Screenshot_20220426_181550.png">
+<img src="./img/window_26-Apr-18_29_02.png">
