@@ -30,3 +30,4 @@
 | [`feh`](https://github.com/derf/feh) |  A fast and light image viewer   | Wallpaper |
 | [`dunst`](https://github.com/dunst-project/dunst) |  Lightweight and customizable notification daemon    | For notifications |
 | [`spicetify`](https://github.com/spicetify/spicetify-cli) | Commandline tool to customize Spotify client | To customize spotify |
+| [`better discord`](https://betterdiscord.app/) |   To enhances Discord desktop app with new features   | To customize discord |
