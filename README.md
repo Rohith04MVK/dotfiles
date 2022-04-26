@@ -1,5 +1,5 @@
 <img src="./img/header.png" align="center">
-<h3 align="center">Dotfiles for my <i>awesome<i> desktop!</h3>
+<h3 align="center">Dotfiles for my <i>awesome</i> desktop!</h3>
 <hr /> 
 
 <p align="center">
