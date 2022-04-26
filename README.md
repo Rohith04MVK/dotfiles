@@ -34,16 +34,18 @@
 | [`better discord`](https://betterdiscord.app/) |   To enhances Discord desktop app with new features   | To customize discord |
 
 <h3 align="center">Color scheme and Wallpapers 🌈</h3>
-Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet
+
+Huge thanks to [Catppuccin](https://github.com/catppuccin) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet
   
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png"></p>
   
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png"></p>
 
 <h3 align="center">Fonts ✍️</h3>
+
 All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/tree/main/fonts) folder
   
-<h3 align="center">Installation and usage🔧</h3>
+<h3 align="center">Installation and usage 🔧</h3>
  
   
 1. Install the required dependencies for your specific distributions.
