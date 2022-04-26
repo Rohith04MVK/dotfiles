@@ -61,3 +61,4 @@ All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/
 <img src="img/nvim.png">
 <img src="img/spotify.png">
 <img src="img/spotify_full.png">
+<img src="img/discord.png">
