@@ -2,8 +2,10 @@
 <h3 align="center">Dotfiles for my <i>awesome<i> desktop!</h3>
 <hr /> 
 
+<p align="center">
 <img src="img/works-on-machine.svg" height=30px> 
 <img src="img/works-with-wizardry.svg" height=30px>
+</p>
 
 <h2 align="center">Desktop</h3>
 <img src="./img/desktop.png" align="center">
@@ -33,6 +35,23 @@
 | [`better discord`](https://betterdiscord.app/) |   To enhances Discord desktop app with new features   | To customize discord |
 
 ### Color scheme and Wallpapers
-Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet \
+Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet
   
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" align="center">
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png"></p>
+  
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png"></p>
+
+### Fonts
+All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/tree/main/fonts) folder
+  
+### Installation and usage
+ 
+  
+1. Install the required dependencies for your specific distributions.
+2. Clone this repository
+```bash
+ git clone https://github.com/Rohith04MVK/dotfiles
+```
+3. Install the fonts from [`fonts`](https://github.com/Rohith04MVK/dotfiles/tree/main/fonts) folder.
+4. Copy all the folder from [`.config`](https://github.com/Rohith04MVK/dotfiles/tree/main/.config) to `~/.config` folder.
+<h3 align="center">Walla All done! Now login with i3 🎉</h3>
