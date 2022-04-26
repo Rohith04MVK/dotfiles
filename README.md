@@ -55,4 +55,5 @@ All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/
 3. Install the fonts from [`fonts`](https://github.com/Rohith04MVK/dotfiles/tree/main/fonts) folder.
 4. Copy all the folder from [`.config`](https://github.com/Rohith04MVK/dotfiles/tree/main/.config) to `~/.config` folder.
 <h3 align="center">Walla All done! Now login with i3 🎉</h3>
+
 ### Gallary
