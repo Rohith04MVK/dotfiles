@@ -57,7 +57,7 @@ All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/
 <h3 align="center">Walla All done! Now login with i3 🎉</h3>
 
 ### Gallary
-<img src="./img/Screenshot_20220426_162415.png">
-<img src="./img/Screenshot_20220426_171236.png">
-<img src="./img/Screenshot_20220426_181550.png">
-<img src="./img/window_26-Apr-18_29_02.png">
+<img src="img/gaps.png">
+<img src="img/nvim.png">
+<img src="img/spotify.png">
+<img src="img/spotify_full.png">
