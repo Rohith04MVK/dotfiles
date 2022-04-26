@@ -33,6 +33,9 @@
 | [`better discord`](https://betterdiscord.app/) |   To enhances Discord desktop app with new features   | To customize discord |
 
 ### Color scheme and Wallpapers
-Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet \
-  
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" align="center">
+Huge thanks to [Catppuccin](https://github.com/catppuccin/) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet <br />
+ 
+<p align="center"> <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png" /></p>
+### Fonts
+All the fonts used here is available in the [`fonts`]()
