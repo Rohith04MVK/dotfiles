@@ -11,6 +11,7 @@
 <img src="./img/desktop.png" align="center">
 
 <h3 align="center">Starring ✨</h3>
+<hr />
 
 - [`manjaro`](https://manjaro.org/) as distribution
 - [`i3-gaps`](https://github.com/Airblader/i3) as window manager
@@ -21,6 +22,7 @@
 - [`trivago`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as hotel (shamelessly stolen)
 
 <h3 align="center">Dependencies ➕</h3>
+<hr />
 
 | Name | Description | Why/Where is it needed? |
 | --- | --- | --- |
@@ -34,6 +36,7 @@
 | [`better discord`](https://betterdiscord.app/) |   To enhances Discord desktop app with new features   | To customize discord |
 
 <h3 align="center">Color scheme and Wallpapers 🌈</h3>
+<hr />
 
 Huge thanks to [Catppuccin](https://github.com/catppuccin) for this amazing color scheme and the awesome wallpapers. All the colors used are from the *Catppuccin* color pallet
   
@@ -42,10 +45,12 @@ Huge thanks to [Catppuccin](https://github.com/catppuccin) for this amazing colo
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png"></p>
 
 <h3 align="center">Fonts ✍️</h3>
+<hr />
 
 All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/tree/main/fonts) folder
   
 <h3 align="center">Installation and usage 🔧</h3>
+<hr />
  
   
 1. Install the required dependencies for your specific distributions.
@@ -58,6 +63,7 @@ All the fonts used are in the [`fonts`](https://github.com/Rohith04MVK/dotfiles/
 <h3 align="center">Walla All done! Now login with i3 🎉</h3>
 
 <h3 align="center">Gallary 🖼️</h3>
+<hr />
 <img src="img/gaps.png">
 <img src="img/nvim.png">
 <img src="img/spotify.png">
